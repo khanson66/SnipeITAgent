@@ -1,0 +1,15 @@
+{
+    "url": "https://snipeit.example.com",
+    "api_key": "KEY",
+    "log_location": "",
+    "target_fieldset_id": 4,
+    "custom_fields": {
+        "CPU": "Get-Cpu",
+        "Network": "Get-Network",
+        "Ram": "Get-Ram",
+        "Drive Space": "Get-Diskinfo",
+        "Monitor": "Get-Monitor",
+        "Bios Version": "Get-BiosVersion",
+        "Os Verison": "Get-WindowsVersion"
+    }
+}
